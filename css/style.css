@@ -1,0 +1,198 @@
+.navbar {
+    background-color: white;
+}
+
+.nav-item {
+    padding-right: 2px;
+}
+
+.nav-item:last-child {
+    padding-right: 0px;
+}
+
+.nav-link {
+    color: #055999;
+    padding: 10px 15px !important;
+}
+
+.nav-link:hover {
+    background-color: #055999;
+    color: white;
+
+}
+
+.dropdown-item {
+    font-size: 12px;
+}
+
+.dropdown-item:hover {
+    background-color: #055999;
+    color: #ffffff;
+    font-weight: 400;
+}
+
+.menu-active {
+    background-color: #055999;
+    color: white;
+}
+
+.nav-bars {
+    color: #055999 !important;
+}
+
+.slide-text {
+    text-align: left !important;
+}
+
+.slide-text h1 {
+    font-weight: bold;
+    margin-top: -130px !important;
+}
+
+.slide-text p {
+    font-size: 20px;
+}
+
+.serviceText {
+    color: rgb(66, 66, 66);
+}
+
+.serviceText h1 {
+    font-weight: bold;
+    padding-bottom: 10px;
+}
+
+.serviceText p {
+    font-size: 14px;
+    padding-bottom: 15px;
+}
+
+.cardCss {
+    background-color: #EFEFEF !important;
+    margin-bottom: 10px;
+}
+
+.cardCss:hover {
+    background-color: white !important;
+    border: 1px solid rgb(66, 66, 66);
+}
+
+.cardIcons {
+    font-size: 80px;
+    padding-top: 70px;
+    padding-bottom: 20px;
+}
+
+.btn-services {
+    background-color: #055999 !important;
+    color: white;
+    padding-bottom: 10px;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-bottom: 10px;
+    margin-top: 5px;
+}
+
+.btn-services:hover {
+    background-color: white !important;
+    color: #337ab7;
+    border: 1px solid rgb(66, 66, 66);
+
+}
+
+.card-text {
+    font-size: 14px;
+}
+
+.teamSection {
+    background-color: #055999;
+    color: white;
+    padding: 80px 0px 50px 0px;
+    margin-top: 30px;
+}
+
+.teamText p {
+    font-size: 14px;
+}
+
+.teamText h3 {
+    font-weight: bold;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.carousel-row h3 {
+    font-weight: bold;
+}
+
+.footer-1 {
+    background-color: #1B1B1B;
+    color: #949494;
+}
+
+.footer-1 h5 {
+    color: white;
+}
+
+.footer-list {
+    list-style: none;
+    margin-left: -40px;
+    font-size: 13px;
+    font-weight: 500;
+
+}
+
+.footer-list li {
+    padding-bottom: 4px;
+}
+
+.footer-list li:last-child {
+    padding-bottom: 0px;
+}
+
+.footer-list li a {
+    text-decoration: none;
+    color: #949494;
+}
+
+.footer-list li a:hover {
+    color: white;
+}
+
+.footer-text {
+    font-size: 13px;
+    font-weight: 500;
+}
+
+.footer-2 {
+    background-color: #191919;
+    color: white;
+    font-size: 13px;
+}
+
+.footer-social ul {
+    list-style: none;
+    text-align: right;
+}
+
+.footer-social ul li {
+    display: inline-block;
+    padding-right: 10px;
+}
+
+.footer-social ul li a {
+    color: white;
+}
+
+.services-title {
+    background: rgb(30, 86, 177) url(/images/slider1.jpg);
+    background-repeat: no-repeat;
+    background-position: top right;
+    background-size: contain;
+    color: white;
+    font-weight: bold;
+}
+
+.services-section h3 {
+    font-weight: bold;
+}
